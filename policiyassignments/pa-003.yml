@@ -18,5 +18,5 @@ spec:
     attribute: "channel"
     value: "web"
   policySets:
-    - id: "ps-001"
+    - id: "ps-003"
       version: "1.0.0"
